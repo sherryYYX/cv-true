@@ -1,0 +1,9 @@
+{
+  "scripts":{
+    "build":"rm -rf dist && parcel build index.html --no-minify --public-url ./"
+  },
+  "name": "cv",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
